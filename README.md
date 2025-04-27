@@ -11,7 +11,7 @@ R: devtools, forcats, vdemdata, car, gtsummary, WDI, psych, tidyverse, corrplot,
 
 ## Download/Usage Instructions: 
 1. Clone the Repository:
-Download the project files by cloning the repository: git clone https://github.com/laurlaur3917/electiondashboard.git
+Download the project files by cloning the repository: git clone [https://github.com/laurlaur3917/electiondashboard.git](https://github.com/laurlaur3917/Master-Thesis-2025-Lauren-Gerber.git)
 2. Open RStudio:
 Launch RStudio after cloning the repository.
 
