@@ -5,7 +5,9 @@ Code used in Lauren Gerber's Social Scientific Data Analysis Masters Thesis. Thi
 
 ## Installation:
 Prerequisites
+
 R – For data processing and visualizations
+
 Libraries:
 R: devtools, forcats, vdemdata, car, gtsummary, WDI, psych, tidyverse, corrplot, sjPlot, mediation, sandwich, lmtest, ggthemes, visreg
 
