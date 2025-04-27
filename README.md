@@ -4,7 +4,7 @@
 Code used in Lauren Gerber's Social Scientific Data Analysis Masters Thesis. This project explores the relationship between democracies' quality of democracy and individuals' average political conspiracy beliefs. 
 
 ## Installation:
-Prerequisites
+Prerequisites:
 
 R – For data processing and visualizations
 
