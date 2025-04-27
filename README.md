@@ -19,7 +19,7 @@ Launch RStudio after cloning the repository.
 Click on File -> Open Project...
 Navigate to the cloned project folder and select the .Rproj file. Opening the .Rproj file will automatically set the working directory correctly. Open the file titled "thesisscript.R". 
 
-4. Install Required R Packages. They are listed in this description.  
+4. Install Required R Packages. They are listed in this description "prerequisites".  
    
 5. Run the code!:) 
 
