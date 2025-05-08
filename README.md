@@ -28,8 +28,6 @@ Navigate to the cloned project folder and select the .Rproj file. Opening the .R
 ## Data Sources
 Data is sourced from: 
 
-Bordeleau, J.-N., Stockemer, D., Amengay, A., & Shamaileh, A. (2023b). The Comparative Conspiracy Research Survey (CCRS) [Data set]. Harvard Dataverse. [https://doi.org/10.7910/DVN/VRRY9B](https://doi.org/10.7910/DVN/VRRY9B)
-
 1. Bordeleau, J.-N., Stockemer, D., Amengay, A., & Shamaileh, A. (2023b). The Comparative Conspiracy Research Survey (CCRS) [Data set]. Harvard Dataverse. [https://doi.org/10.7910/DVN/VRRY9B](https://doi.org/10.7910/DVN/VRRY9B) 
 
 2. World Bank. (2023). GDP per capita, PPP (constant 2021 international $) [Data file]. World Bank. [https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD)
