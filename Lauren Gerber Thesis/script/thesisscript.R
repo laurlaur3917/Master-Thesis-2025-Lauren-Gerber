@@ -272,7 +272,7 @@ library(ggthemes)
 ggplot(distinct_data, aes(x = reorder(country_name, v2x_libdem), y = factor(round(v2x_libdem, 2)), fill = factor(round(v2x_libdem, 2)))) +
   geom_bar(stat = "identity") +
   ylab("Liberal Democracy Score") +
-  labs(title="Liberal Democracy Scores (0-1) by Country", subtitle="Measured in the Year 2022") +
+  labs(title="Liberal Democracy Scores (0-1) by Country", subtitle="Measured in the Year 2023") +
   coord_flip() +
   theme_tufte()+ 
   scale_fill_economist() +
