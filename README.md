@@ -1,7 +1,7 @@
 # Master-Thesis-2025-Lauren-Gerber
 
 ## Description: 
-Code used in Lauren Gerber's Social Scientific Data Analysis Masters Thesis. This project explores the relationship between democracies' quality of democracy and individuals' average political conspiracy beliefs. 
+Code used in Lauren Gerber's Social Scientific Data Analysis Master's Thesis. This project explores the relationship between democracies' quality of democracy and individuals' average political conspiracy beliefs. 
 
 ## Installation:
 Prerequisites:
